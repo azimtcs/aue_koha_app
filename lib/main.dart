@@ -1170,7 +1170,7 @@ class MorePage extends StatelessWidget {
               const Divider(height: 1),
               const ListTile(
                 leading: Icon(Icons.privacy_tip_outlined),
-                title: Text("Privacy Policy"),
+                title: Text("Privacy Policyy"),
               ),
               const Divider(height: 1),
               ListTile(
